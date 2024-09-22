@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+
+@font-face {
+    font-family: 'Muli-Bold';
+    src: url('../font/muli/Muli-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Muli-Black';
+    src: url('../font/muli/Muli-Black.ttf');
+}
+
+
+@font-face {
+    font-family: 'Muli-SemiBold';
+    src: url('../font/muli/Muli-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Muli-ExtraBold';
+    src: url('../font/muli/Muli-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'Muli-Regular';
+    src: url('../font/muli/Muli-Regular.ttf');
+}
+@font-face {
+    font-family: 'Muli-ExtraLight';
+    src: url('../font/muli/Muli-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Muli-Italic';
+    src: url('../font/muli/Muli-Italic.ttf');
+}
+@font-face {
+    font-family: 'Muli-LightItalic';
+    src: url('../font/muli/Muli-LightItalic.ttf');
+}
+
+
+
+
